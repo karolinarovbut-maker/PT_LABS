@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\bin\Debug\net8.0\CS_Basics.exe
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\bin\Debug\net8.0\CS_Basics.deps.json
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\bin\Debug\net8.0\CS_Basics.runtimeconfig.json
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\bin\Debug\net8.0\CS_Basics.dll
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\bin\Debug\net8.0\CS_Basics.pdb
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.AssemblyInfo.cs
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.sourcelink.json
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.dll
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\refint\CS_Basics.dll
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.pdb
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\CS_Basics.genruntimeconfig.cache
+D:\REPOS\PT_LABS\lab03\CS_Basics\CS_Basics\obj\Debug\net8.0\ref\CS_Basics.dll
