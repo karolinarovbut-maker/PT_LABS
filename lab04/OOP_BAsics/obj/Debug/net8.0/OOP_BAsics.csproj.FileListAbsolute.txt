@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\bin\Debug\net8.0\OOP_BAsics.exe
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\bin\Debug\net8.0\OOP_BAsics.deps.json
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\bin\Debug\net8.0\OOP_BAsics.runtimeconfig.json
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\bin\Debug\net8.0\OOP_BAsics.dll
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\bin\Debug\net8.0\OOP_BAsics.pdb
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.AssemblyInfo.cs
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.sourcelink.json
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.dll
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\refint\OOP_BAsics.dll
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.pdb
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\OOP_BAsics.genruntimeconfig.cache
+D:\REPOS\PT_LABS\lab04\OOP_BAsics\obj\Debug\net8.0\ref\OOP_BAsics.dll
